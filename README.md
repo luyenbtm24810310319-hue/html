@@ -1,1 +1,20 @@
-# html
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <title>To-Do DevOps</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<h1>🚀 To-Do DevOps Demo</h1>
+
+<input type="text" id="taskInput" placeholder="Nhập công việc...">
+<button onclick="addTask()">Thêm</button>
+
+<ul id="taskList"></ul>
+
+<script src="script.js"></script>
+
+</body>
+</html>
