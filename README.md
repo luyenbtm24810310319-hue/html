@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>To-Do DevOps</title>
+    <title>CI/CD WORKING</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
