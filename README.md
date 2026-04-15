@@ -2,7 +2,7 @@
 <html lang="vi">
 <head>
     <meta charset="UTF-8">
-    <title>CI/CD WORKING</title>
+    <title>CI/CD đã cập nhật</title>
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
